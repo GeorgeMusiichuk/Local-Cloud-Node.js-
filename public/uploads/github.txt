@@ -1,0 +1,6 @@
+git init
+gid add .
+git commit -m ""
+git branch -M main
+git remote add 
+git push
